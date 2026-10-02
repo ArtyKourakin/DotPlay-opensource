@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.posts_reputation_trigger() FROM PUBLIC, anon, authenticated;
